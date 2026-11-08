@@ -61,6 +61,9 @@ Learned how to use timing waveforms (EPWave) to debug serial communication issue
 
 Understood the importance of clock synchronization between asynchronous transmitter and receiver modules.
 
+References:
+https://github.com/ben-marshall/uart/tree/5fd2db850a41b65aa34f3a31c663fc8704c7abd8
+
 👨‍💻 Author
 VARSHITH SUNKI
 Electronics Engineering Student | VLSI Enthusiast
